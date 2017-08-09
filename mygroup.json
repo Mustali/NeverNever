@@ -1,0 +1,21 @@
+[
+  {
+    "name"     :"Mustali",
+    "Roll" :"1210716125",
+    "Branch"   :"IT",
+    "Batch"    :"2016-20"
+  },
+  { 
+    "name"     :"Yash",
+    "Roll" :"1210716148",
+    "Branch"   :"IT",
+    "Batch"    :"2016-20"
+  },
+  {
+    "name"     :"Anurag",
+    "Roll" :"1210716102",
+    "Branch"   :"IT",
+    "Batch"    :"2016-20"
+  }
+
+]
